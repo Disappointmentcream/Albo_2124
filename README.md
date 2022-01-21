@@ -41,6 +41,10 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 94ee6d46a262a74f68001f5a44e816672da136e8
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|

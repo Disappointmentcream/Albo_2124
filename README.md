@@ -38,7 +38,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
-|![](./data/LorenzoGrimaldi/Lorenzo Grimaldi.jpg) | Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+
 
 
 ## 3D Game Art
